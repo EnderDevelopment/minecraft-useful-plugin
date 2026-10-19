@@ -1,0 +1,8 @@
+debugstick:
+  enabled: true
+nightvision:
+  enabled: true
+barrier:
+  enabled: true
+light:
+  enabled: true
